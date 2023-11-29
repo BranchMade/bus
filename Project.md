@@ -1,4 +1,4 @@
-https://www.tinkercad.com/things/e69NvqpPcvp-shahmaty
+https://www.tinkercad.com/things/e69NvqpPcvp-shahmaty?sharecode=A765BocKQqiOrCbqy2NjSngeoSZ0JbGQ29btdK8-SZ0
 Проект шахматы 3D в Tinkercad
 Делал Баранов Сергей.
 Странно работает выравнивание, не всегда срабатывает.
